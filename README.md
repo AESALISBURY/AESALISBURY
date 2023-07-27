@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amanda! <br/><a href="https://github.com/joshmadakor1"> <a href="www.linkedin.com/in/aesalisbury1/
+<h1>Hi, I'm Amanda! <br/><a href="www.linkedin.com/in/aesalisbury1/
 ">Educational Technology, Instructional Design, Project Management</a>
 <h2>💾 Learning & Development Presentations:</h2>
 
