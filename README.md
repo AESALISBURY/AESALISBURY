@@ -1,7 +1,7 @@
 <h1>Hi, I'm Amanda!
  
  [Educational Technology, Instructional Design, Project Management](http://www.linkedin.com/in/aesalisbury1/) 
-<h2>💾 Learning & Development Presentations:</h2>
+<h2>💾 Learning & Development Presentations</h2>
 
 Educational Technology Integration
 - <b>[Weekly Tech Tip Videos](https://www.youtube.com/playlist?list=PLn6826HOHNXqXL2HPH_CcMlNHx-stEmX5) 
