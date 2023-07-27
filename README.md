@@ -1,5 +1,6 @@
-<h1>Hi, I'm Amanda! <br/><a href="www.linkedin.com/in/aesalisbury1/
-">Educational Technology, Instructional Design, Project Management</a>
+<h1>Hi, I'm Amanda!</b>
+ 
+[Educational Technology, Instructional Design, Project Management](www.linkedin.com/in/aesalisbury1/) 
 <h2>💾 Learning & Development Presentations:</h2>
 
 - <b>Weekly Tech Tip Videos </b>
